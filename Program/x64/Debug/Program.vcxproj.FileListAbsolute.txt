@@ -1,1 +1,2 @@
 C:\Users\cacas\OneDrive\바탕 화면\Program\x64\Debug\Program.exe
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Program\x64\Debug\Program.exe
