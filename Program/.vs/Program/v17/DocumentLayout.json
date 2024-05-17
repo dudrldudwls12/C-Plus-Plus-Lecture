@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C935089-6CC0-4E37-B366-FF2B99BABF5D}|Program.vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C935089-6CC0-4E37-B366-FF2B99BABF5D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8088D426-5243-4161-962C-33FB5C6EEA2B}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class5th (Polymorphism)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class5th (Polymorphism)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Source.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class5th (Polymorphism)\\Source.cpp",
+              "RelativeToolTip": "..\\Class5th (Polymorphism)\\Source.cpp",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAqwOUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T09:47:22.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Program\\Program.cpp",
+              "RelativeDocumentMoniker": "Program.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T10:39:48.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
