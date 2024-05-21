@@ -3,7 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB3A9698-89AB-45F6-B387-1F60D981BE69}|..\\Class8th (Object Slice)\\Class8th (Object Slice).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A9698-89AB-45F6-B387-1F60D981BE69}|..\\Class8th (Object Slice)\\Class8th (Object Slice).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Marine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A9698-89AB-45F6-B387-1F60D981BE69}|..\\Class8th (Object Slice)\\Class8th (Object Slice).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Firebet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A9698-89AB-45F6-B387-1F60D981BE69}|..\\Class8th (Object Slice)\\Class8th (Object Slice).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Ghost.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A9698-89AB-45F6-B387-1F60D981BE69}|..\\Class8th (Object Slice)\\Class8th (Object Slice).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Ghost.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A9698-89AB-45F6-B387-1F60D981BE69}|..\\Class8th (Object Slice)\\Class8th (Object Slice).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Firebet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A9698-89AB-45F6-B387-1F60D981BE69}|..\\Class8th (Object Slice)\\Class8th (Object Slice).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Marine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A9698-89AB-45F6-B387-1F60D981BE69}|..\\Class8th (Object Slice)\\Class8th (Object Slice).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Terran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB3A9698-89AB-45F6-B387-1F60D981BE69}|..\\Class8th (Object Slice)\\Class8th (Object Slice).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Terran.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB087E-7422-46C1-A2FD-91C97B235DB2}|..\\Class7th (Multiple Inheritance)\\Class7th (Multiple Inheritance).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7DB087E-7422-46C1-A2FD-91C97B235DB2}|..\\Class7th (Multiple Inheritance)\\Class7th (Multiple Inheritance).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DB087E-7422-46C1-A2FD-91C97B235DB2}|..\\Class7th (Multiple Inheritance)\\Class7th (Multiple Inheritance).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Mouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7DB087E-7422-46C1-A2FD-91C97B235DB2}|..\\Class7th (Multiple Inheritance)\\Class7th (Multiple Inheritance).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Keyboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -12,16 +45,10 @@
       "AbsoluteMoniker": "D:0:0:{E7DB087E-7422-46C1-A2FD-91C97B235DB2}|..\\Class7th (Multiple Inheritance)\\Class7th (Multiple Inheritance).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7DB087E-7422-46C1-A2FD-91C97B235DB2}|..\\Class7th (Multiple Inheritance)\\Class7th (Multiple Inheritance).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7DB087E-7422-46C1-A2FD-91C97B235DB2}|..\\Class7th (Multiple Inheritance)\\Class7th (Multiple Inheritance).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Keyboard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7DB087E-7422-46C1-A2FD-91C97B235DB2}|..\\Class7th (Multiple Inheritance)\\Class7th (Multiple Inheritance).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7DB087E-7422-46C1-A2FD-91C97B235DB2}|..\\Class7th (Multiple Inheritance)\\Class7th (Multiple Inheritance).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Mouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,15 +58,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ghost.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Ghost.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Ghost.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Ghost.cpp",
+              "RelativeToolTip": "..\\Class8th (Object Slice)\\Ghost.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T10:26:42.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Firebet.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Firebet.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Firebet.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Firebet.cpp",
+              "RelativeToolTip": "..\\Class8th (Object Slice)\\Firebet.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T10:24:26.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Marine.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Marine.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Marine.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Marine.cpp",
+              "RelativeToolTip": "..\\Class8th (Object Slice)\\Marine.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T09:46:42.64Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Ghost.h",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Ghost.h",
+              "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Ghost.h",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Ghost.h",
+              "RelativeToolTip": "..\\Class8th (Object Slice)\\Ghost.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T09:46:59.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Firebet.h",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Firebet.h",
+              "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Firebet.h",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Firebet.h",
+              "RelativeToolTip": "..\\Class8th (Object Slice)\\Firebet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T09:46:34.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Marine.h",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Marine.h",
+              "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Marine.h",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Marine.h",
+              "RelativeToolTip": "..\\Class8th (Object Slice)\\Marine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T09:46:14.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Terran.h",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Terran.h",
+              "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Terran.h",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Terran.h",
+              "RelativeToolTip": "..\\Class8th (Object Slice)\\Terran.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T09:44:05.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Source.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Source.cpp",
+              "RelativeToolTip": "..\\Class8th (Object Slice)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T09:03:46.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Computer.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Computer.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Computer.cpp",
@@ -52,20 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Computer.h",
-              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Computer.h",
-              "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Computer.h",
-              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Computer.h",
-              "RelativeToolTip": "..\\Class7th (Multiple Inheritance)\\Computer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-20T10:02:33.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Keyboard.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Keyboard.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Keyboard.cpp",
@@ -78,7 +196,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Terran.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Terran.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Terran.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Terran.cpp",
+              "RelativeToolTip": "..\\Class8th (Object Slice)\\Terran.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAIA3wBEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T09:46:37.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Computer.h",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Computer.h",
+              "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Computer.h",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Computer.h",
+              "RelativeToolTip": "..\\Class7th (Multiple Inheritance)\\Computer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T10:02:33.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Keyboard.h",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Keyboard.h",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Keyboard.h",
@@ -86,12 +229,11 @@
               "RelativeToolTip": "..\\Class7th (Multiple Inheritance)\\Keyboard.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-20T09:44:35.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T09:44:35.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "Mouse.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Mouse.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Mouse.cpp",
@@ -99,12 +241,11 @@
               "RelativeToolTip": "..\\Class7th (Multiple Inheritance)\\Mouse.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-20T09:21:08.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T09:21:08.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Mouse.h",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Mouse.h",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Mouse.h",
@@ -117,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Source.cpp",

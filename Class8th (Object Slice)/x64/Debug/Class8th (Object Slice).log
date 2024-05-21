@@ -1,0 +1,50 @@
+﻿  Firebet.cpp
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Firebet.h(8,7): error C3668: 'Firebet::Recovery': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Firebet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Firebet.h(9,7): error C3668: 'Firebet::Damage': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Firebet.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Firebet.cpp(7,2): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Firebet.cpp(7,39): error C2065: 'endl': 선언되지 않은 식별자입니다.
+  Ghost.cpp
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Ghost.h(8,7): error C3668: 'Ghost::Recovery': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Ghost.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Ghost.h(9,7): error C3668: 'Ghost::Damage': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Ghost.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Ghost.cpp(7,2): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Ghost.cpp(7,37): error C2065: 'endl': 선언되지 않은 식별자입니다.
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Ghost.cpp(14,2): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Ghost.cpp(14,37): error C2065: 'endl': 선언되지 않은 식별자입니다.
+  Marine.cpp
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Marine.h(8,7): error C3668: 'Marine::Recovery': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Marine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Marine.h(9,7): error C3668: 'Marine::Damage': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Marine.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Marine.cpp(7,2): error C2065: 'cout': 선언되지 않은 식별자입니다.
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Marine.cpp(7,38): error C2065: 'endl': 선언되지 않은 식별자입니다.
+  Source.cpp
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Marine.h(8,7): error C3668: 'Marine::Recovery': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Source.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Marine.h(9,7): error C3668: 'Marine::Damage': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Source.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Firebet.h(8,7): error C3668: 'Firebet::Recovery': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Source.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Firebet.h(9,7): error C3668: 'Firebet::Damage': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Source.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Ghost.h(8,7): error C3668: 'Ghost::Recovery': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Source.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Class8th (Object Slice)\Ghost.h(9,7): error C3668: 'Ghost::Damage': 재정의 지정자 'override'가 있는 메서드가 기본 클래스 메서드를 재정의하지 않았습니다.
+  (소스 파일 'Source.cpp'을(를) 컴파일하는 중)
+  
+  Terran.cpp
+  코드를 생성하고 있습니다...
