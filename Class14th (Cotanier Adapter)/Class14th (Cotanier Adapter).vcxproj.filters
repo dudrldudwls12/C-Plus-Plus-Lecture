@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Class14th (Cotanier Adapter).cpp">
+    <ClCompile Include="Soruce.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
