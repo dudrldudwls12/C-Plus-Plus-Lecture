@@ -1,2 +1,4 @@
 ﻿  Program.cpp
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Program\Program.cpp(14,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Program\Program.cpp(14,26): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
   Program.vcxproj -> C:\Users\cacas\OneDrive\문서\GitHub\C-Plus-Plus-Lecture\Program\x64\Debug\Program.exe

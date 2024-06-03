@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{3C935089-6CC0-4E37-B366-FF2B99BABF5D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FAA8B30B-D50B-4AB4-8CDE-3111F4CC4442}|..\\Class16th (Final)\\Class16th (Final).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class16th (Final)\\Soruce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A179B38A-D03F-47B1-9DA3-F42E84922445}|..\\Class9th (Operator Overloding)\\Class9th (Operator Overloding).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class9th (Operator Overloding)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -88,20 +91,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class15th (Associated Container)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class15th (Associated Container)\\Source.cpp",
-              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class15th (Associated Container)\\Source.cpp",
-              "RelativeToolTip": "..\\Class15th (Associated Container)\\Source.cpp",
-              "ViewState": "AQIAACkAAAAAAAAAAAAqwD4AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Soruce.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class16th (Final)\\Soruce.cpp",
+              "RelativeDocumentMoniker": "..\\Class16th (Final)\\Soruce.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class16th (Final)\\Soruce.cpp",
+              "RelativeToolTip": "..\\Class16th (Final)\\Soruce.cpp",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAqwGcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-02T02:12:53.977Z",
+              "WhenOpened": "2024-06-03T09:02:25.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Soruce.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class14th (Cotanier Adapter)\\Soruce.cpp",
               "RelativeDocumentMoniker": "..\\Class14th (Cotanier Adapter)\\Soruce.cpp",
@@ -109,12 +112,11 @@
               "RelativeToolTip": "..\\Class14th (Cotanier Adapter)\\Soruce.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T10:23:33.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T10:23:33.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class13th (Linear Contanier)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class13th (Linear Contanier)\\Source.cpp",
@@ -122,12 +124,11 @@
               "RelativeToolTip": "..\\Class13th (Linear Contanier)\\Source.cpp",
               "ViewState": "AQIAAHoAAAAAAAAAAAAqwMUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T09:04:09.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T09:04:09.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class12th (Template)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class12th (Template)\\Source.cpp",
@@ -135,12 +136,11 @@
               "RelativeToolTip": "..\\Class12th (Template)\\Source.cpp",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-27T10:44:03.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-27T10:44:03.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class11th (Smart Pointer)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class11th (Smart Pointer)\\Source.cpp",
@@ -148,12 +148,11 @@
               "RelativeToolTip": "..\\Class11th (Smart Pointer)\\Source.cpp",
               "ViewState": "AQIAAGoAAAAAAAAAAAAqwH8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-24T10:42:06.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T10:42:06.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class10th (Friend)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class10th (Friend)\\Source.cpp",
@@ -161,12 +160,11 @@
               "RelativeToolTip": "..\\Class10th (Friend)\\Source.cpp",
               "ViewState": "AQIAAEgAAAAAAAAAAAAqwGAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T10:42:21.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T10:42:21.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class9th (Operator Overloding)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class9th (Operator Overloding)\\Source.cpp",
@@ -174,8 +172,7 @@
               "RelativeToolTip": "..\\Class9th (Operator Overloding)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T09:03:36.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T09:03:36.295Z"
             },
             {
               "$type": "Document",
@@ -185,14 +182,26 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAAD0AAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-22T09:03:21.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class15th (Associated Container)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class15th (Associated Container)\\Source.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class15th (Associated Container)\\Source.cpp",
+              "RelativeToolTip": "..\\Class15th (Associated Container)\\Source.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-02T02:12:53.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Ghost.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Ghost.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Ghost.cpp",
@@ -204,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Firebet.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Firebet.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Firebet.cpp",
@@ -216,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Marine.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Marine.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Marine.cpp",
@@ -228,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Ghost.h",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Ghost.h",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Ghost.h",
@@ -240,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Firebet.h",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Firebet.h",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Firebet.h",
@@ -252,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Marine.h",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Marine.h",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Marine.h",
@@ -264,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Terran.h",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Terran.h",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Terran.h",
@@ -276,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Computer.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Computer.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Computer.cpp",
@@ -288,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Keyboard.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Keyboard.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Keyboard.cpp",
@@ -300,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Terran.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class8th (Object Slice)\\Terran.cpp",
               "RelativeDocumentMoniker": "..\\Class8th (Object Slice)\\Terran.cpp",
@@ -312,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Computer.h",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Computer.h",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Computer.h",
@@ -324,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Keyboard.h",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Keyboard.h",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Keyboard.h",
@@ -336,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Mouse.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Mouse.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Mouse.cpp",
@@ -348,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Mouse.h",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Mouse.h",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Mouse.h",
@@ -360,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class7th (Multiple Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Multiple Inheritance)\\Source.cpp",
