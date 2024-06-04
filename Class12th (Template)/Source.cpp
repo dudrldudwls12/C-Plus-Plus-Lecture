@@ -43,7 +43,17 @@ const char* Add<const char*>(const char* x, const char* y)
     int length1 = strlen(x);
     int length2 = strlen(y);
 
-    return (length1 > length2) ? x : y;
+    return (length1 > lengthvoid Select(Item * item[], int& index)
+        {
+            if (GetAsyncKeyState(VK_SPACE))
+            {
+                if (item[index / 2] == nullptr)
+                {
+                    item[index / 2] = new Item();
+                }
+            }
+                
+        }2) ? x : y;
 }
 int main()
 {

@@ -7,16 +7,7 @@
       "RelativeMoniker": "D:0:0:{3C935089-6CC0-4E37-B366-FF2B99BABF5D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FAA8B30B-D50B-4AB4-8CDE-3111F4CC4442}|..\\Class16th (Final)\\Class16th (Final).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class16th (Final)\\Soruce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A179B38A-D03F-47B1-9DA3-F42E84922445}|..\\Class9th (Operator Overloding)\\Class9th (Operator Overloding).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class9th (Operator Overloding)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6405A977-7FB8-44C8-8AFA-BCF2D78CA674}|..\\Class10th (Friend)\\Class10th (Friend).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class10th (Friend)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA8181EE-0D4A-4DD4-8977-13E1B115F507}|..\\Class11th (Smart Pointer)\\Class11th (Smart Pointer).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class11th (Smart Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D785F7BE-CB2D-4482-80D2-4AD9714787E3}|..\\Class12th (Template)\\Class12th (Template).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class12th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -25,7 +16,16 @@
       "AbsoluteMoniker": "D:0:0:{25D9AF62-FEA4-4D6E-8ED1-0ED0DC375D30}|..\\Class13th (Linear Contanier)\\Class13th (Linear Contanier).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class13th (Linear Contanier)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FAA8B30B-D50B-4AB4-8CDE-3111F4CC4442}|..\\Class16th (Final)\\Class16th (Final).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class16th (Final)\\Soruce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3F0AEC6-790E-40BB-B308-DC56DB95FCE8}|..\\Class14th (Cotanier Adapter)\\Class14th (Cotanier Adapter).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class14th (Cotanier Adapter)\\Soruce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6405A977-7FB8-44C8-8AFA-BCF2D78CA674}|..\\Class10th (Friend)\\Class10th (Friend).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class10th (Friend)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8181EE-0D4A-4DD4-8977-13E1B115F507}|..\\Class11th (Smart Pointer)\\Class11th (Smart Pointer).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class11th (Smart Pointer)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCA7A14E-4D51-4751-8E06-CCAAC49C243E}|..\\Class15th (Associated Container)\\Class15th (Associated Container).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class15th (Associated Container)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Soruce.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class16th (Final)\\Soruce.cpp",
               "RelativeDocumentMoniker": "..\\Class16th (Final)\\Soruce.cpp",
@@ -104,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Soruce.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class14th (Cotanier Adapter)\\Soruce.cpp",
               "RelativeDocumentMoniker": "..\\Class14th (Cotanier Adapter)\\Soruce.cpp",
@@ -112,11 +112,12 @@
               "RelativeToolTip": "..\\Class14th (Cotanier Adapter)\\Soruce.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T10:23:33.075Z"
+              "WhenOpened": "2024-05-30T10:23:33.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class13th (Linear Contanier)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class13th (Linear Contanier)\\Source.cpp",
@@ -124,23 +125,25 @@
               "RelativeToolTip": "..\\Class13th (Linear Contanier)\\Source.cpp",
               "ViewState": "AQIAAHoAAAAAAAAAAAAqwMUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T09:04:09.141Z"
+              "WhenOpened": "2024-05-30T09:04:09.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class12th (Template)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class12th (Template)\\Source.cpp",
               "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class12th (Template)\\Source.cpp",
               "RelativeToolTip": "..\\Class12th (Template)\\Source.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEQAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-27T10:44:03.542Z"
+              "WhenOpened": "2024-05-27T10:44:03.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class11th (Smart Pointer)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class11th (Smart Pointer)\\Source.cpp",
@@ -152,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class10th (Friend)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class10th (Friend)\\Source.cpp",
@@ -164,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Class9th (Operator Overloding)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class9th (Operator Overloding)\\Source.cpp",
@@ -172,7 +175,8 @@
               "RelativeToolTip": "..\\Class9th (Operator Overloding)\\Source.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-23T09:03:36.295Z"
+              "WhenOpened": "2024-05-23T09:03:36.295Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -182,7 +186,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\C-Plus-Plus-Lecture\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAcAAAA",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAKgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-22T09:03:21.38Z",
               "EditorCaption": ""
